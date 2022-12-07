@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\obj\Debug\TuringMachine.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\Public\Documents\Code Projects Portfolio\TuringMachineSimulation\TuringMachineSimulation\TuringMachine\obj\Debug\TuringMachine.pdb
